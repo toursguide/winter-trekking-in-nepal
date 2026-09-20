@@ -2,7 +2,7 @@ User-agent: *
 Allow: /
 
 # Sitemap Location
-Sitemap: https://yourwebsite.com/sitemap.xml
+Sitemap: https://winter-trekking-in-nepal.vercel.app/
 
 # Google Bot
 User-agent: Googlebot
